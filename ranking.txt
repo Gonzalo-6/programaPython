@@ -1,0 +1,22 @@
+Gonzalo,4,4
+Paulina,3,4
+Alejandro,3,4
+Elena,4,4
+Laura,3,4
+Gonzalo (Deporte),2,2
+c (Cultura),0,2
+c (Deporte),0,2
+c (Deporte),0,2
+cB (Deporte),0,2
+c (Deporte),0,2
+c (Deporte),0,2
+C (Deporte),0,2
+c (Deporte),0,2
+b (Deporte),0,2
+d (Geografía),0,2
+Juan (Historia),1,2
+Jacin (Deporte),2,2
+Pepe (Deporte),2,2
+Enrique (Deporte),2,2
+b (Deporte),0,2
+A (Deporte),0,2

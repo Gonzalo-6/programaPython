@@ -1,0 +1,50 @@
+ {
+        "Deporte": [
+            {
+                "pregunta": "¿Cuántas copas de Europa tiene el Real Madrid?",
+                "opciones": ["A. 17", "B. 16", "C. 15", "D. 14"],
+                "respuesta_correcta": "C"
+            },
+            {
+                "pregunta": "¿Quién es deportista español de todos los tiempos?",
+                "opciones": ["A. Pau Gasol", "B. Rafael Nadal", "C. Fernando Alonso", "D. Andres Iniesta"],
+                "respuesta_correcta": "B"
+            }
+        ],
+        "Cultura": [
+            {
+                "pregunta": "¿Cuál es mejor libro español ?",
+                "opciones": ["A. El Lazarillo de Tormes", "B. La Celestina", "C. Don Quijote de la Mancha", "D. La casa de Bernarda Alba"],
+                "respuesta_correcta": "C"
+            },
+            {
+                "pregunta": "¿Qué cuadro está expuesto en el Museo del Prado?",
+                "opciones": ["A. El entierro del Conde Orgar", "B. El Guernica", "C. las Meninas", "D. La persistencia de la memoria"],
+                "respuesta_correcta": "C"
+            }
+        ],
+        "Geografía": [
+            {
+                "pregunta": "¿Cuál es la capital de España?",
+                "opciones": ["A. Barcelona", "B. Bilbao", "C. Toledo", "D. Madrid"],
+                "respuesta_correcta": "D"
+            },
+            {
+                "pregunta": "¿Cuántas Comunidades Autonomas hay en España?",
+                "opciones": ["A. 15", "B. 16", "C. 17", "D. 18"],
+                "respuesta_correcta": "C"
+            }
+        ],
+        "Historia": [
+            {
+                "pregunta": "¿En qué año comenzó la Guerra Civil española?",
+                "opciones": ["A. 1936", "B. 1939", "C. 1941", "D. 1945"],
+                "respuesta_correcta": "B"
+            },
+            {
+                "pregunta": "¿Cuál es el monumento más famoso de españa?",
+                "opciones": ["A. La Alhambra", "B. La Mezquita de Cordoba", "C. Catedral de Santiago", "D. Acueducto de Segovia"],
+                "respuesta_correcta": "A"
+            }
+        ]
+    }
