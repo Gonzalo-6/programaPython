@@ -17,7 +17,6 @@ def mostrar_pregunta(pregunta):
         print(opcion)
 
 
-
 def obtener_respuesta():
     while True:
         respuesta = input("Tu respuesta (A, B, C, D): ").upper()
